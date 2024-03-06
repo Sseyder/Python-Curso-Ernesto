@@ -16,14 +16,19 @@ Las strings son cadenas de caracteres que pueden estar compuestas de numeros, le
 
 # Ejemplo Asignacion
 mensaje = "Hola"
+print(mensaje)
 mensaje += " "
+print(mensaje)
 mensaje += "Leonel"
 print(mensaje)
 
 # Ejemplo Concatenacion
 mensaje2 = "Hola"
+print(mensaje2)
 espacio = " "
+print(espacio)
 nombre = "Marcelo"
+print(nombre)
 print(mensaje2 + espacio + nombre)
 
 # Concatenacion con numeros
@@ -35,12 +40,12 @@ resultado = str(resultado)
 print("El resultado de la suma es: " + resultado)
 
 # Ejemplo Busqueda
-mensaje3 = "Hola Leonel"
-buscarSubstring = mensaje3.find("Leonel")
-print(buscarSubstring)
+mensaje3 = "Hola Leonel como estas?"
+buscarLeonel = mensaje3.find("Leonel")
+print(buscarLeonel)
 
 # Ejemplo Extraccion
-mensaje4 = "Hola Leonel"
+mensaje4 = "Hola Leonel como estas?"
 extraerSubstring = mensaje4[1:8]
 print(extraerSubstring)
 
