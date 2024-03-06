@@ -1,13 +1,14 @@
 '''
 BUCLES WHILE
 
-Un bucle permite ejecutar en repetidas ocasiones las instrucciones indicadas, es decir no existe la necesidad de duplicar lineas de codigo
-En Python se utiliza el bucle WHILE, el cual permite, mientras se cumpla una condicion, repetir la ejecucion de unas instrucciones
+Un bucle permite ejecutar en repetidas ocasiones las instrucciones indicadas,
+es decir no existe la necesidad de duplicar lineas de codigo.
+En Python se utiliza el bucle WHILE, el cual permite,
+mientras se cumpla una condicion, repetir la ejecucion de unas instrucciones
 
-#? Sintaxis del While
-
-#?  while condicion:
-#?      instrucciones    
+Sintaxis del While:
+#?while condicion:
+#?  instrucciones    
 
 '''
 
