@@ -1,10 +1,12 @@
 '''
-Desarrollar una calculadora.
+#* EJERCICIO 4:
+#* Desarrollar una calculadora.
+Desarrollar una calculadora de operaciones aritmeticas basicas, esta debe tener un menu de opciones mediante input de usuario
 
-Requerimientos que la calculadora debe tener:
-1. La calculadora debe tener las siguientes caracteristicas. Suma, Resta, Multiplicacion, division, division entera, exponente y resto.
-2. La calculadora debe tener un menu de opciones donde el usuario pueda elegir cual es la opcion que desea ejecutar.
-3. La caluladora solo debe utilizar una variable
+#? Requerimientos que la calculadora debe tener:
+#? 1. La calculadora debe tener las siguientes caracteristicas. Suma, Resta, Multiplicacion, division, division entera, exponente y resto.
+#? 2. La calculadora debe tener un menu de opciones donde el usuario pueda elegir cual es la opcion que desea ejecutar.
+#? 3. La caluladora solo debe utilizar una variable
 '''
 print("= Calculadora Simple con una sola variable =")
 print("\n====================")
