@@ -1,5 +1,5 @@
 '''
-BUCLES WHILE
+#* BUCLES WHILE
 
 Un bucle permite ejecutar en repetidas ocasiones las instrucciones indicadas,
 es decir no existe la necesidad de duplicar lineas de codigo.

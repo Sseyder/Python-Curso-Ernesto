@@ -1,5 +1,5 @@
 '''
-BREAK y CONTINUE
+#* BREAK y CONTINUE
 
 En Python los Bucles pueden ser interrumpidos, o simplemente, dejar de ejecutarse
 para iniciar una nueva iteracion (Repeticion).
